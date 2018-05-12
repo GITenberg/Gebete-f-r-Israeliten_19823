@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8906
     wikipedia: http://www.jewishencyclopedia.com/view.jsp?artid=247&letter=W
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19823#Gebete-f-r-Israeliten
 gutenberg_bookshelf:
 - DE Sachbuch
 - Judaism
